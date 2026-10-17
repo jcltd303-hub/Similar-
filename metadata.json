@@ -1,0 +1,6 @@
+{
+  "name": "Contract Risk Analyzer",
+  "description": "Scrape and analyze Ethereum contract risk from multiline text files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
